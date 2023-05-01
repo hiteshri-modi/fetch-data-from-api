@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "FetchDataFromAPI",
-    "slug": "FetchDataFromAPI",
+    "slug": "test1",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "03b016bb-7216-4253-9f13-59fc4d7360d3"
+      }
+    },
+    "owner": "hiteshri-modi"
   }
 }
